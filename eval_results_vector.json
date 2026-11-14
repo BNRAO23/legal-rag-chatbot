@@ -1,0 +1,257 @@
+{
+  "timestamp": "2026-11-13T15:27:50.557320+00:00",
+  "retrieval_mode": "vector",
+  "total_cases": 3,
+  "chat_model": "google/gemini-3.5-flash-lite",
+  "embedding_model": "google/gemini-embedding-001",
+  "results": [
+    {
+      "id": "CA2013-001",
+      "question": "Explain the legal requirements and procedure for incorporating a private limited company under Section 7.",
+      "expected": "Explain filing of incorporation documents and prescribed declarations with the Registrar of Companies.\nCover memorandum and articles, subscribers, first directors and registered-office particulars as prescribed.\nExplain Registrar's scrutiny and issue of certificate of incorporation and CIN.\nDistinguish incorporation from commencement-of-business requirements under Section 10A, where applicable.",
+      "actual": "To incorporate a company, the following documents and information must be filed for registration with the Registrar within whose jurisdiction the registered office of the company is proposed to be situated [Companies Act, 2013 | Section 7 | p.30]:\n(a) The memorandum and articles of the company, duly signed by all the subscribers to the memorandum in the prescribed manner [Companies Act, 2013 | Section 7 | p.30].\n(b) A declaration in the prescribed form by an advocate, a chartered accountant, cost accountant, or company secretary in practice who is engaged in the formation of the company, and by a person named in the articles as a director, manager, or secretary of the company, stating that all the requirements of the Act and rules made thereunder regarding registration and matters precedent or incidental thereto have been complied with [Companies Act, 2013 | Section 7 | p.30].\n(c) A declaration from each of the subscribers to the memorandum and from persons named as the first directors in the articles (if any) stating that:\n- He is not convicted of any offence in connection with the promotion, formation, or management of any company, or that he has not been found guilty of any fraud, misfeasance, or breach of duty to any company under the Act or any previous company law during the preceding five years [Companies Act, 2013 | Section 7 | p.30].\n- All documents filed with the Registrar for the registration of the company contain information that is correct, complete, and true to the best of his knowledge and belief [Companies Act, 2013 | Section 7 | p.30].\n(d) The address for correspondence until the registered office is established [Companies Act, 2013 | Section 7 | p.30].\n(e) The particulars of name (including surname or family name), residential address, nationality, and other particulars [Companies Act, 2013 | Section 7 | p.30-31].",
+      "is_unanswerable": false,
+      "latency_seconds": 24.733,
+      "cites_expected_source": true,
+      "retrieved_expected_source": true,
+      "expected_doc": "Companies Act, 2013",
+      "expected_sections": [
+        "7",
+        "10A"
+      ],
+      "not_found_refused": "N/A",
+      "contextual_recall": {
+        "score": 0.5,
+        "reason": "The score is 0.50 because sentences 1 and 2 in the expected output are well-supported by node 1 in the retrieval context regarding filing documents, memorandum, articles, subscribers, directors, and registered office particulars, while sentences 3 and 4 lack support in the retrieval context as it fails to mention the Registrar's scrutiny, the certificate of incorporation, CIN, or commencement-of-business requirements under Section 10A.",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because the first node correctly and perfectly prioritizes the relevant information regarding Section 7 incorporation requirements, mentioning 'memorandum and articles of the company duly signed by all the subscribers' and declarations, successfully placing it above all irrelevant nodes such as the second node discussing Section 3 formation of a company, the third node pertaining to companies limited by guarantee, the fourth node covering Section 4 memorandum contents, and the fifth node discussing types of companies under Section 3A.",
+        "error": null
+      },
+      "faithfulness": {
+        "score": null,
+        "reason": "",
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      },
+      "answer_relevancy": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because the output directly and comprehensively addresses all aspects of incorporating a private limited company under Section 7 without including any irrelevant information.",
+        "error": null
+      },
+      "retrieved_sources": [
+        {
+          "rank": 1,
+          "chunk_id": "companies_act_2013__section_7__001",
+          "citation": "[Companies Act, 2013 | Section 7 | p.30]",
+          "similarity": 0.7496,
+          "document": "Companies Act, 2013",
+          "section": "7",
+          "page": 30
+        },
+        {
+          "rank": 2,
+          "chunk_id": "companies_act_2013__section_3__001",
+          "citation": "[Companies Act, 2013 | Section 3 | p.27]",
+          "similarity": 0.7249,
+          "document": "Companies Act, 2013",
+          "section": "3",
+          "page": 27
+        },
+        {
+          "rank": 3,
+          "chunk_id": "companies_act_2013__section_366__004",
+          "citation": "[Companies Act, 2013 | Section 366 | p.198]",
+          "similarity": 0.7013,
+          "document": "Companies Act, 2013",
+          "section": "366",
+          "page": 198
+        },
+        {
+          "rank": 4,
+          "chunk_id": "companies_act_2013__section_4__001",
+          "citation": "[Companies Act, 2013 | Section 4 | p.28]",
+          "similarity": 0.6925,
+          "document": "Companies Act, 2013",
+          "section": "4",
+          "page": 28
+        },
+        {
+          "rank": 5,
+          "chunk_id": "companies_act_2013__section_3__003",
+          "citation": "[Companies Act, 2013 | Section 3 | p.28]",
+          "similarity": 0.6881,
+          "document": "Companies Act, 2013",
+          "section": "3",
+          "page": 28
+        }
+      ],
+      "retrieval_mode": "vector"
+    },
+    {
+      "id": "CA2013-004",
+      "question": "Explain the restrictions imposed under Section 185 on loans to directors and interested entities.",
+      "expected": "Identify persons to whom a company is prohibited from directly or indirectly advancing loans, including loans represented by book debt and guarantees/security, as covered by the section.\nExplain the permitted exceptions and the conditional route for loans to persons in whom directors are interested, including the special resolution and utilisation-for-principal-business-activities condition where applicable.\nExplain relevant exemptions and the need to check company type and current statutory text.",
+      "actual": "Based on the provided documents, the restrictions and conditions regarding loans to directors and interested entities under Section 185 are as follows:\n\n* **General Prohibition:** No company shall, directly or indirectly, advance any loan (including a loan represented by a book debt), give any guarantee, or provide any security in connection with any loan taken by any director of the company, or of a company which is its holding company, or any partner or relative of any such director, or any firm in which any such director or relative is a partner [Companies Act, 2013 | Section 185 | p.124].\n* **Loans to Persons in Whom a Director is Interested:** A company may advance a loan, give a guarantee, or provide security to a person in whom any of the director of the company is interested, subject to the conditions that:\n  1. A special resolution is passed by the company in general meeting, where the explanatory statement to the notice discloses full particulars of the loans, guarantees, or securities, the purpose for which they are proposed to be utilised, and any other relevant fact [Companies Act, 2013 | Section 185 | p.124-125].\n  2. The loans are utilised by the borrowing company for its principal business activities [Companies Act, 2013 | Section 185 | p.125].\n* **Definition of \"Any person in whom any of the director of the company is interested\":** This expression means:\n  - Any private company of which any such director is a director or member [Companies Act, 2013 | Section 185 | p.125];\n  - Any body corporate at a general meeting of which not less than twenty-five per cent. of the total voting power may be exercised or controlled by any such director, or by two or more such directors, together [Companies Act, 2013 | Section 185 | p.125]; or\n  - Any body corporate, the Board of directors, managing director, or manager whereof is accustomed to act in accordance with the directions or instructions of the Board, or of any director or directors, of the lending company [Companies Act, 2013 | Section 185 | p.125].\n* **Exceptions:** The prohibitions and restrictions in sub-sections (1) and (2) do not apply to:\n  - Loans given to a managing or whole-time director as part of service conditions extended to all employees, or pursuant to a scheme approved by members by a special resolution [Companies Act, 2013 | Section 185 | p.125].\n  - A company providing loans, guarantees, or securities in the ordinary course of its business, provided interest is charged at a rate not less than the prevailing yield of a 1-year, 3-year, 5-year, or 10-year Government security closest to the tenor of the loan [Companies Act, 2013 | Section 185 | p.125].\n  - Loans made by a holding company to its wholly owned subsidiary company, or guarantees/securities provided by a holding company for a loan to its wholly owned subsidiary [Companies Act, 2013 | Section 185 | p.125].\n  - Guarantees given or securities provided by a holding company in respect of a loan made by any bank or financial institution to its subsidiary company [Companies Act, 2013 | Section 185 | p.125]. \n  *(Provided that loans under clauses (c) and (d) are utilised by the subsidiary company for its principal business activities [Companies Act, 2013 | Section 185 | p.125]).*",
+      "is_unanswerable": false,
+      "latency_seconds": 5.857,
+      "cites_expected_source": true,
+      "retrieved_expected_source": true,
+      "expected_doc": "Companies Act, 2013",
+      "expected_sections": [
+        "185"
+      ],
+      "not_found_refused": "N/A",
+      "contextual_recall": {
+        "score": 0.6666666666666666,
+        "reason": "The score is 0.67 because sentences 1 and 2 of the expected output are supported by node 1 and node 2 in retrieval context regarding prohibited loans and permitted exceptions, while sentence 3 lacks contextual support regarding company type and statutory text.",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because all the relevant nodes, specifically the first node stating 'It directly covers 'No company shall, directly or indirectly, advance any loan, including any loan represented by a book debt... to any director... or any firm in which any such director or relative is a partner' as required by the expected output', the second node stating 'It explains the conditional route for loans to persons in whom directors are interested, detailing that 'a special resolution is passed by the company in general meeting' and utilisation 'for its principal business activities'', and the third node stating 'It explains permitted exceptions, stating 'Nothing contained in sub-sections (1) and (2) shall apply to...' such as loans to managing or whole-time directors or by a holding company to its wholly owned subsidiary'', are perfectly ranked above all the irrelevant nodes.",
+        "error": null
+      },
+      "faithfulness": {
+        "score": null,
+        "reason": "",
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      },
+      "answer_relevancy": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because the actual output directly and accurately addresses the input without containing any irrelevant statements. Excellent work!",
+        "error": null
+      },
+      "retrieved_sources": [
+        {
+          "rank": 1,
+          "chunk_id": "companies_act_2013__section_185__001",
+          "citation": "[Companies Act, 2013 | Section 185 | p.124]",
+          "similarity": 0.7985,
+          "document": "Companies Act, 2013",
+          "section": "185",
+          "page": 124
+        },
+        {
+          "rank": 2,
+          "chunk_id": "companies_act_2013__section_185__002",
+          "citation": "[Companies Act, 2013 | Section 185 | p.125]",
+          "similarity": 0.7506,
+          "document": "Companies Act, 2013",
+          "section": "185",
+          "page": 125
+        },
+        {
+          "rank": 3,
+          "chunk_id": "companies_act_2013__section_185__003",
+          "citation": "[Companies Act, 2013 | Section 185 | p.125]",
+          "similarity": 0.7266,
+          "document": "Companies Act, 2013",
+          "section": "185",
+          "page": 125
+        },
+        {
+          "rank": 4,
+          "chunk_id": "companies_act_2013__section_180__003",
+          "citation": "[Companies Act, 2013 | Section 180 | p.122]",
+          "similarity": 0.7141,
+          "document": "Companies Act, 2013",
+          "section": "180",
+          "page": 122
+        },
+        {
+          "rank": 5,
+          "chunk_id": "companies_act_2013__section_67__002",
+          "citation": "[Companies Act, 2013 | Section 67 | p.57]",
+          "similarity": 0.712,
+          "document": "Companies Act, 2013",
+          "section": "67",
+          "page": 57
+        }
+      ],
+      "retrieval_mode": "vector"
+    },
+    {
+      "id": "SYN-001",
+      "question": "Under the Central Goods and Services Tax (CGST) Act, 2017, what is the GST rate and SAC code for corporate legal consultancy services?",
+      "expected": "NOT_FOUND",
+      "actual": "I could not find this in the documents.",
+      "is_unanswerable": true,
+      "latency_seconds": 6.97,
+      "cites_expected_source": "N/A",
+      "retrieved_expected_source": "N/A",
+      "expected_doc": "",
+      "expected_sections": [],
+      "not_found_refused": true,
+      "contextual_recall": {
+        "score": 1.0,
+        "reason": "Out-of-corpus question correctly refused; no context expected.",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": 1.0,
+        "reason": "Out-of-corpus question correctly refused.",
+        "error": null
+      },
+      "faithfulness": {
+        "score": 1.0,
+        "reason": "Model refrained from hallucinating ungrounded claims.",
+        "error": null
+      },
+      "answer_relevancy": {
+        "score": 1.0,
+        "reason": "Refusal strictly relevant for out-of-corpus question.",
+        "error": null
+      },
+      "retrieved_sources": [
+        {
+          "rank": 1,
+          "chunk_id": "companies_act_2013__section_1__002",
+          "citation": "[Companies Act, 2013 | Section 1 | p.16]",
+          "similarity": 0.6359,
+          "document": "Companies Act, 2013",
+          "section": "1",
+          "page": 16
+        },
+        {
+          "rank": 2,
+          "chunk_id": "companies_act_2013__section_1__004",
+          "citation": "[Companies Act, 2013 | Section 1 | p.16]",
+          "similarity": 0.6354,
+          "document": "Companies Act, 2013",
+          "section": "1",
+          "page": 16
+        },
+        {
+          "rank": 3,
+          "chunk_id": "companies_act_2013__section_136__002",
+          "citation": "[Companies Act, 2013 | Section 136 | p.94]",
+          "similarity": 0.6353,
+          "document": "Companies Act, 2013",
+          "section": "136",
+          "page": 94
+        },
+        {
+          "rank": 4,
+          "chunk_id": "companies_act_2013__section_1__003",
+          "citation": "[Companies Act, 2013 | Section 1 | p.16]",
+          "similarity": 0.6346,
+          "document": "Companies Act, 2013",
+          "section": "1",
+          "page": 16
+        },
+        {
+          "rank": 5,
+          "chunk_id": "companies_act_2013__section_248__002",
+          "citation": "[Companies Act, 2013 | Section 248 | p.166]",
+          "similarity": 0.6327,
+          "document": "Companies Act, 2013",
+          "section": "248",
+          "page": 166
+        }
+      ],
+      "retrieval_mode": "vector"
+    }
+  ]
+}

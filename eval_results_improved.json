@@ -1,0 +1,228 @@
+{
+  "timestamp": "2026-11-13T16:04:25.231781+00:00",
+  "retrieval_mode": "hybrid",
+  "rerank_enabled": true,
+  "rerank_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "total_cases": 3,
+  "chat_model": "google/gemini-3.5-flash-lite",
+  "embedding_model": "google/gemini-embedding-001",
+  "results": [
+    {
+      "id": "CA2013-001",
+      "question": "Explain the legal requirements and procedure for incorporating a private limited company under Section 7.",
+      "expected": "Explain filing of incorporation documents and prescribed declarations with the Registrar of Companies.\nCover memorandum and articles, subscribers, first directors and registered-office particulars as prescribed.\nExplain Registrar's scrutiny and issue of certificate of incorporation and CIN.\nDistinguish incorporation from commencement-of-business requirements under Section 10A, where applicable.",
+      "actual": "I could not find this in the documents.",
+      "is_unanswerable": false,
+      "latency_seconds": 7.664,
+      "cites_expected_source": false,
+      "retrieved_expected_source": true,
+      "expected_doc": "Companies Act, 2013",
+      "expected_sections": [
+        "7",
+        "10A"
+      ],
+      "not_found_refused": "N/A",
+      "contextual_recall": {
+        "score": 0.5,
+        "reason": "The score is 0.50 because sentences 1 and 2 of the expected output are successfully attributed to node(s) in the retrieval context like the 5th node, while sentences 3 and 4 regarding the Registrar's scrutiny, certificate of incorporation, CIN, and Section 10A are entirely missing from the retrieval context.",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": 0.2,
+        "reason": "The score is 0.20 because the only relevant node is ranked fifth, while the first four nodes are irrelevant. Specifically, the first node (which discusses the revocation of licences and conversion of status under Section 8, which is not relevant to the incorporation procedure under Section 7) should be ranked lower than the fifth node. Similarly, the second node (which details the contents of a memorandum under Section 4, whereas the output requires explanation of Section 7 incorporation), the third node (which refers to the certificate of registration for existing companies under Section 367, not Section 7 incorporation), and the fourth node (which is about licensing and registration of companies with charitable objects, which is unrelated to Section 7 incorporation) should all be ranked lower than the relevant fifth node (which directly corresponds to Section 7, mentioning 'the following documents and information for registration, namely:— (a) the memorandum and articles... (b) a declaration... (c) declaration from each of the subscribers... (d) the address... (e) the particulars of name').",
+        "error": null
+      },
+      "faithfulness": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because the actual output is completely faithful and accurate to the retrieval context with no contradictions found. Great job!",
+        "error": null
+      },
+      "answer_relevancy": {
+        "score": 0.0,
+        "reason": "The score is 0.00 because the actual output failed to provide the requested legal requirements and procedure, instead incorrectly claiming the information could not be found.",
+        "error": null
+      },
+      "retrieved_sources": [
+        {
+          "rank": 1,
+          "chunk_id": "companies_act_2013__section_8__003",
+          "citation": "[Companies Act, 2013 | Section 8 | p.32]",
+          "similarity": 0.6678,
+          "document": "Companies Act, 2013",
+          "section": "8",
+          "page": 32
+        },
+        {
+          "rank": 2,
+          "chunk_id": "companies_act_2013__section_4__001",
+          "citation": "[Companies Act, 2013 | Section 4 | p.28]",
+          "similarity": 0.6925,
+          "document": "Companies Act, 2013",
+          "section": "4",
+          "page": 28
+        },
+        {
+          "rank": 3,
+          "chunk_id": "companies_act_2013__section_367__001",
+          "citation": "[Companies Act, 2013 | Section 367 | p.198]",
+          "similarity": 0.6596,
+          "document": "Companies Act, 2013",
+          "section": "367",
+          "page": 198
+        },
+        {
+          "rank": 4,
+          "chunk_id": "companies_act_2013__section_8__002",
+          "citation": "[Companies Act, 2013 | Section 8 | p.32]",
+          "similarity": 0.6685,
+          "document": "Companies Act, 2013",
+          "section": "8",
+          "page": 32
+        },
+        {
+          "rank": 5,
+          "chunk_id": "companies_act_2013__section_7__001",
+          "citation": "[Companies Act, 2013 | Section 7 | p.30]",
+          "similarity": 0.7496,
+          "document": "Companies Act, 2013",
+          "section": "7",
+          "page": 30
+        }
+      ],
+      "retrieval_mode": "hybrid",
+      "rerank_enabled": true,
+      "filter_document_enabled": true,
+      "rewrite_query_enabled": true,
+      "rewritten_query": "Explain the legal requirements and procedure for incorporating a private limited company under Section 7.",
+      "detected_document": "Companies Act, 2013"
+    },
+    {
+      "id": "CA2013-004",
+      "question": "Explain the restrictions imposed under Section 185 on loans to directors and interested entities.",
+      "expected": "Identify persons to whom a company is prohibited from directly or indirectly advancing loans, including loans represented by book debt and guarantees/security, as covered by the section.\nExplain the permitted exceptions and the conditional route for loans to persons in whom directors are interested, including the special resolution and utilisation-for-principal-business-activities condition where applicable.\nExplain relevant exemptions and the need to check company type and current statutory text.",
+      "actual": "Based on the provided documents, the restrictions imposed under Section 185 regarding loans, guarantees, and securities to directors and interested entities are as follows:\n\n* **General Prohibition:** No company shall, directly or indirectly, advance any loan (including a loan represented by a book debt), give any guarantee, or provide any security in connection with any loan taken by any director of the company, a director of its holding company, any partner or relative of any such director, or any firm in which any such director or relative is a partner [Companies Act, 2013 | Section 185 | p.124].\n* **Loans to Persons in Whom a Director is Interested:** A company may advance a loan, give a guarantee, or provide security in connection with a loan taken by any person in whom a director of the company is interested, subject to the condition that a special resolution is passed by the company in a general meeting [Companies Act, 2013 | Section 185 | p.124]. Additionally, the explanatory statement to the notice for the relevant general meeting must disclose the full particulars of the loans given, guarantees given, or security provided, along with the purpose for which they are given [Companies Act, 2013 | Section 185 | p.124].",
+      "is_unanswerable": false,
+      "latency_seconds": 8.497,
+      "cites_expected_source": true,
+      "retrieved_expected_source": true,
+      "expected_doc": "Companies Act, 2013",
+      "expected_sections": [
+        "185"
+      ],
+      "not_found_refused": "N/A",
+      "contextual_recall": {
+        "score": 0.6666666666666666,
+        "reason": "The score is 0.67 because sentences 1 and 2 of the expected output are supported by the 1st node in the retrieval context, while sentence 3 regarding relevant exemptions and company type is not present in any of the nodes in retrieval context.",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because all the relevant nodes are perfectly ranked at the top, ensuring that the essential details on Section 185 regarding loans to directors, stating that 'No company shall, directly or indirectly, advance any loan, including any loan represented by a book debt to, or give any guarantee or provide any security' in the first node and the table of contents listing '185. Loan to directors, etc.' in the second node, precede the irrelevant nodes such as the third node covering Section 189 on the 'Register of contracts or arrangements in which directors are interested', the fourth node discussing Section 186 on 'Loan and investment by company', and the fifth node relating to board powers and general regulations.",
+        "error": null
+      },
+      "faithfulness": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because the actual output is completely faithful to the retrieval context with no contradictions found. Great job!",
+        "error": null
+      },
+      "answer_relevancy": {
+        "score": 1.0,
+        "reason": "The score is 1.00 because the actual output is completely relevant and directly addresses the restrictions imposed under Section 185 on loans to directors and interested entities without including any extraneous or off-topic information. Great job providing a focused and accurate explanation!",
+        "error": null
+      },
+      "retrieved_sources": [
+        {
+          "rank": 1,
+          "chunk_id": "companies_act_2013__section_185__001",
+          "citation": "[Companies Act, 2013 | Section 185 | p.124]",
+          "similarity": 0.7836,
+          "document": "Companies Act, 2013",
+          "section": "185",
+          "page": 124
+        },
+        {
+          "rank": 2,
+          "chunk_id": "companies_act_2013__front_matter_front_matter__010",
+          "citation": "[Companies Act, 2013 | Front Matter | p.5-6]",
+          "similarity": 0.6633,
+          "document": "Companies Act, 2013",
+          "section": "Front Matter",
+          "page": 5
+        },
+        {
+          "rank": 3,
+          "chunk_id": "companies_act_2013__section_189__001",
+          "citation": "[Companies Act, 2013 | Section 189 | p.129]",
+          "similarity": 0.6502,
+          "document": "Companies Act, 2013",
+          "section": "189",
+          "page": 129
+        },
+        {
+          "rank": 4,
+          "chunk_id": "companies_act_2013__section_186__001",
+          "citation": "[Companies Act, 2013 | Section 186 | p.125]",
+          "similarity": 0.6972,
+          "document": "Companies Act, 2013",
+          "section": "186",
+          "page": 125
+        },
+        {
+          "rank": 5,
+          "chunk_id": "companies_act_2013__section_179__002",
+          "citation": "[Companies Act, 2013 | Section 179 | p.121]",
+          "similarity": 0.6535,
+          "document": "Companies Act, 2013",
+          "section": "179",
+          "page": 121
+        }
+      ],
+      "retrieval_mode": "hybrid",
+      "rerank_enabled": true,
+      "filter_document_enabled": true,
+      "rewrite_query_enabled": true,
+      "rewritten_query": "Explain the restrictions imposed under Section 185 of the Companies Act 2013 regarding loans to directors and interested entities.",
+      "detected_document": "Companies Act, 2013"
+    },
+    {
+      "id": "SYN-001",
+      "question": "Under the Central Goods and Services Tax (CGST) Act, 2017, what is the GST rate and SAC code for corporate legal consultancy services?",
+      "expected": "NOT_FOUND",
+      "actual": "I could not find this in the documents.",
+      "is_unanswerable": true,
+      "latency_seconds": 0.711,
+      "cites_expected_source": "N/A",
+      "retrieved_expected_source": "N/A",
+      "expected_doc": "",
+      "expected_sections": [],
+      "not_found_refused": true,
+      "contextual_recall": {
+        "score": 1.0,
+        "reason": "Out-of-corpus question correctly refused; no context expected.",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": 1.0,
+        "reason": "Out-of-corpus question correctly refused.",
+        "error": null
+      },
+      "faithfulness": {
+        "score": 1.0,
+        "reason": "Model refrained from hallucinating ungrounded claims.",
+        "error": null
+      },
+      "answer_relevancy": {
+        "score": 1.0,
+        "reason": "Refusal strictly relevant for out-of-corpus question.",
+        "error": null
+      },
+      "retrieved_sources": [],
+      "retrieval_mode": "hybrid",
+      "rerank_enabled": true,
+      "filter_document_enabled": true,
+      "rewrite_query_enabled": true,
+      "rewritten_query": "Under the Central Goods and Services Tax (CGST) Act, 2017, what is the GST rate and SAC code for corporate legal consultancy services?",
+      "detected_document": ""
+    }
+  ]
+}

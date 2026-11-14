@@ -1,0 +1,48 @@
+[
+  {
+    "id": "REV-001",
+    "trace_id": "f914fd73-f5fe-4666-96c3-4d35abbf9291",
+    "timestamp": "2026-11-13T18:25:34.649497+00:00",
+    "user": "tax_associate",
+    "role": "tax",
+    "question": "What are the rules for filing Form MGT-7 under the Companies Act, 2013?",
+    "bot_answer": "Companies must prepare an annual return in prescribed form [Companies Act, 2013 | Section 92 | p.65].",
+    "reason": "Answer missed the 60-day deadline from AGM and specific e-form particulars",
+    "retrieved_sources": [
+      {
+        "citation": "Companies Act, 2013 | Section 92 | p.65",
+        "chunk_id": "chunk_sec92_p65",
+        "similarity": 0.725,
+        "rerank_score": null
+      }
+    ],
+    "expected_output": "",
+    "must_cite": [
+      "Companies Act, 2013 | Section 92 | p.65"
+    ],
+    "curation_status": "pending_curation"
+  },
+  {
+    "id": "REV-002",
+    "trace_id": "4560c5c9-ea2d-40a9-a0c7-23fe5ff51a29",
+    "timestamp": "2026-11-13T18:25:56.009136+00:00",
+    "user": "tax_associate",
+    "role": "tax",
+    "question": "What are the rules for filing Form MGT-7 under the Companies Act, 2013?",
+    "bot_answer": "Companies must prepare an annual return in prescribed form [Companies Act, 2013 | Section 92 | p.65].",
+    "reason": "Answer missed the 60-day deadline from AGM and specific e-form particulars",
+    "retrieved_sources": [
+      {
+        "citation": "Companies Act, 2013 | Section 92 | p.65",
+        "chunk_id": "chunk_sec92_p65",
+        "similarity": 0.725,
+        "rerank_score": null
+      }
+    ],
+    "expected_output": "",
+    "must_cite": [
+      "Companies Act, 2013 | Section 92 | p.65"
+    ],
+    "curation_status": "pending_curation"
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "timestamp": "2026-11-13T18:05:46.805547+00:00",
+  "retrieval_mode": "hybrid",
+  "rerank_enabled": true,
+  "rerank_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "total_cases": 3,
+  "chat_model": "google/gemini-3.5-flash-lite",
+  "embedding_model": "google/gemini-embedding-001",
+  "results": [
+    {
+      "id": "CA2013-001",
+      "question": "Explain the legal requirements and procedure for incorporating a private limited company under Section 7.",
+      "expected": "Explain filing of incorporation documents and prescribed declarations with the Registrar of Companies.\nCover memorandum and articles, subscribers, first directors and registered-office particulars as prescribed.\nExplain Registrar's scrutiny and issue of certificate of incorporation and CIN.\nDistinguish incorporation from commencement-of-business requirements under Section 10A, where applicable.",
+      "actual": "I could not find this in the documents.",
+      "is_unanswerable": false,
+      "latency_seconds": 18.497,
+      "cites_expected_source": false,
+      "retrieved_expected_source": true,
+      "expected_doc": "Companies Act, 2013",
+      "expected_sections": [
+        "7",
+        "10A"
+      ],
+      "not_found_refused": "N/A",
+      "contextual_recall": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "faithfulness": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "answer_relevancy": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "retrieved_sources": [
+        {
+          "rank": 1,
+          "chunk_id": "companies_act_2013_amended_2026__section_8__003__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 8 | p.32]",
+          "similarity": 0.6678,
+          "document": "Companies Act, 2013",
+          "section": "8",
+          "page": 32
+        },
+        {
+          "rank": 2,
+          "chunk_id": "companies_act_2013_amended_2026__section_4__001__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 4 | p.28]",
+          "similarity": 0.6925,
+          "document": "Companies Act, 2013",
+          "section": "4",
+          "page": 28
+        },
+        {
+          "rank": 3,
+          "chunk_id": "companies_act_2013_amended_2026__section_8__002__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 8 | p.32]",
+          "similarity": 0.6685,
+          "document": "Companies Act, 2013",
+          "section": "8",
+          "page": 32
+        },
+        {
+          "rank": 4,
+          "chunk_id": "companies_act_2013_amended_2026__section_7__001__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 7 | p.30]",
+          "similarity": 0.7496,
+          "document": "Companies Act, 2013",
+          "section": "7",
+          "page": 30
+        },
+        {
+          "rank": 5,
+          "chunk_id": "companies_act_2013_amended_2026__section_7__004__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 7 | p.31]",
+          "similarity": 0.6758,
+          "document": "Companies Act, 2013",
+          "section": "7",
+          "page": 31
+        }
+      ],
+      "retrieval_mode": "hybrid",
+      "rerank_enabled": true,
+      "filter_document_enabled": true,
+      "rewrite_query_enabled": true,
+      "parent_child_enabled": false,
+      "rewritten_query": "Explain the legal requirements and procedure for incorporating a private limited company under Section 7.",
+      "detected_document": "Companies Act, 2013"
+    },
+    {
+      "id": "CA2013-002",
+      "question": "Explain the differences between the Memorandum of Association and Articles of Association. What happens when a company's actions are beyond its MOA?",
+      "expected": "MOA sets out fundamental constitutional matters, including objects and scope, while AOA contains internal management regulations.\nExplain the relationship between the Act, MOA and AOA and that the Act prevails in case of inconsistency.\nExplain the ultra vires doctrine carefully: an act beyond the company's objects may be beyond corporate capacity and cannot simply be validated by ordinary internal approval; distinguish this from acts beyond directors' authority that may be ratifiable in appropriate circumstances.",
+      "actual": "I could not find this in the documents.",
+      "is_unanswerable": false,
+      "latency_seconds": 10.234,
+      "cites_expected_source": false,
+      "retrieved_expected_source": true,
+      "expected_doc": "Companies Act, 2013",
+      "expected_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "not_found_refused": "N/A",
+      "contextual_recall": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "faithfulness": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "answer_relevancy": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "retrieved_sources": [
+        {
+          "rank": 1,
+          "chunk_id": "companies_act_2013_amended_2026__section_10__001__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 10 | p.33]",
+          "similarity": 0.6887,
+          "document": "Companies Act, 2013",
+          "section": "10",
+          "page": 33
+        },
+        {
+          "rank": 2,
+          "chunk_id": "companies_act_2013_amended_2026__section_4__005__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 4 | p.29]",
+          "similarity": 0.6621,
+          "document": "Companies Act, 2013",
+          "section": "4",
+          "page": 29
+        },
+        {
+          "rank": 3,
+          "chunk_id": "companies_act_2013_amended_2026__section_2__001__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 2 | p.17]",
+          "similarity": 0.643,
+          "document": "Companies Act, 2013",
+          "section": "2",
+          "page": 17
+        },
+        {
+          "rank": 4,
+          "chunk_id": "companies_act_2013_amended_2026__section_2__013__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 2 | p.22]",
+          "similarity": 0.6367,
+          "document": "Companies Act, 2013",
+          "section": "2",
+          "page": 22
+        },
+        {
+          "rank": 5,
+          "chunk_id": "companies_act_2013_amended_2026__section_15__001__v2026amendedcopy",
+          "citation": "[Companies Act, 2013 | Section 15 | p.36]",
+          "similarity": 0.6701,
+          "document": "Companies Act, 2013",
+          "section": "15",
+          "page": 36
+        }
+      ],
+      "retrieval_mode": "hybrid",
+      "rerank_enabled": true,
+      "filter_document_enabled": true,
+      "rewrite_query_enabled": true,
+      "parent_child_enabled": false,
+      "rewritten_query": "Explain the differences between the Memorandum of Association and Articles of Association. What happens when a company's actions are beyond its MOA?",
+      "detected_document": "Companies Act, 2013"
+    },
+    {
+      "id": "CA2013-003",
+      "question": "Explain Rights Issue, Bonus Issue and Private Placement, including key compliance requirements.",
+      "expected": "Rights issue: offer to existing equity shareholders proportionately, subject to Section 62 and applicable rules; explain offer period and renunciation subject to the Act/AOA and current rules.\nBonus issue: capitalisation of eligible reserves/securities premium/capital redemption reserve under Section 63; explain restrictions and that bonus shares are not issued in lieu of dividend.\nPrivate placement: offer to identified persons under Section 42 and rules; explain approvals, offer-cum-application process, banking-channel payment, allotment and filing requirements.\nState that exact timelines, limits, forms and procedural details must be checked against current rules and amendments.",
+      "actual": "I could not find this in the documents.",
+      "is_unanswerable": false,
+      "latency_seconds": 8.157,
+      "cites_expected_source": false,
+      "retrieved_expected_source": false,
+      "expected_doc": "Companies Act, 2013",
+      "expected_sections": [
+        "42",
+        "62",
+        "63"
+      ],
+      "not_found_refused": "N/A",
+      "contextual_recall": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "contextual_precision": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "faithfulness": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "answer_relevancy": {
+        "score": null,
+        "reason": "",
+        "error": null
+      },
+      "retrieved_sources": [],
+      "retrieval_mode": "hybrid",
+      "rerank_enabled": true,
+      "filter_document_enabled": true,
+      "rewrite_query_enabled": true,
+      "parent_child_enabled": false,
+      "rewritten_query": "Explain Rights Issue, Bonus Issue and Private Placement, including key compliance requirements.",
+      "detected_document": ""
+    }
+  ]
+}

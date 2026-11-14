@@ -1,0 +1,4 @@
+ID,Mode,Rerank,Type,Latency (s),Retrieved Expected,Cites Expected,NOT_FOUND Refused,Contextual Recall,Contextual Precision,Faithfulness,Answer Relevancy,Question
+CA2013-001,hybrid,YES,Answerable,18.66,True,False,N/A,0.50,0.20,1.00,0.00,Explain the legal requirements and procedure for incorporating a private limited company under Section 7.
+CA2013-004,hybrid,YES,Answerable,5.70,True,True,N/A,0.67,1.00,1.00,1.00,Explain the restrictions imposed under Section 185 on loans to directors and interested entities.
+SYN-001,hybrid,YES,Unanswerable,5.89,N/A,N/A,True,1.00,1.00,1.00,1.00,"Under the Central Goods and Services Tax (CGST) Act, 2017, what is the GST rate and SAC code for corporate legal consultancy services?"

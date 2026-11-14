@@ -1,0 +1,4 @@
+ID,Mode,Rerank,Type,Latency (s),Retrieved Expected,Cites Expected,NOT_FOUND Refused,Contextual Recall,Contextual Precision,Faithfulness,Answer Relevancy,Question
+CA2013-001,hybrid,YES,Answerable,23.22,True,False,N/A,N/A,N/A,N/A,N/A,Explain the legal requirements and procedure for incorporating a private limited company under Section 7.
+CA2013-002,hybrid,YES,Answerable,9.22,False,False,N/A,N/A,N/A,N/A,N/A,Explain the differences between the Memorandum of Association and Articles of Association. What happens when a company's actions are beyond its MOA?
+CA2013-003,hybrid,YES,Answerable,7.32,False,False,N/A,N/A,N/A,N/A,N/A,"Explain Rights Issue, Bonus Issue and Private Placement, including key compliance requirements."
