@@ -1,0 +1,442 @@
+[
+  {
+    "case_id": "CA2013-001",
+    "question": "Explain the legal requirements and procedure for incorporating a private limited company under Section 7.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": true,
+    "not_found": true,
+    "time_guardrails_input": 3.5655,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.6828,
+    "time_search": 1.4472,
+    "time_reranking": 10.0885,
+    "time_parent_child": 0.0751,
+    "time_generation": 2.9453,
+    "time_guardrails_output": 2.2937,
+    "time_total": 21.2604,
+    "tokens_guardrails_input": {
+      "input_tokens": 136,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 18,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 7761,
+      "output_tokens": 744
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 1824,
+      "output_tokens": 2
+    },
+    "total_chat_input_tokens": 9721,
+    "total_chat_output_tokens": 748,
+    "total_embed_tokens": 18,
+    "cost_guardrails": 0.0001482,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 1.44e-06,
+    "cost_generation": 0.0008052749999999999,
+    "cost_total": 0.000954915
+  },
+  {
+    "case_id": "CA2013-002",
+    "question": "Explain the differences between the Memorandum of Association and Articles of Association. What happens when a company's actions are beyond its MOA?",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": false,
+    "not_found": true,
+    "time_guardrails_input": 2.7137,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.539,
+    "time_search": 0.7237,
+    "time_reranking": 2.0574,
+    "time_parent_child": 0.0006,
+    "time_generation": 1.5009,
+    "time_guardrails_output": 0.0,
+    "time_total": 7.678,
+    "tokens_guardrails_input": {
+      "input_tokens": 156,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 27,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 3583,
+      "output_tokens": 9
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "total_chat_input_tokens": 3739,
+    "total_chat_output_tokens": 11,
+    "total_embed_tokens": 27,
+    "cost_guardrails": 1.2299999999999999e-05,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 2.16e-06,
+    "cost_generation": 0.000271425,
+    "cost_total": 0.000285885
+  },
+  {
+    "case_id": "CA2013-003",
+    "question": "Explain Rights Issue, Bonus Issue and Private Placement, including key compliance requirements.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": false,
+    "not_found": true,
+    "time_guardrails_input": 4.126,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.7178,
+    "time_search": 0.519,
+    "time_reranking": 0.0,
+    "time_parent_child": 0.0,
+    "time_generation": 0.0,
+    "time_guardrails_output": 0.0,
+    "time_total": 5.4832,
+    "tokens_guardrails_input": {
+      "input_tokens": 132,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 16,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "total_chat_input_tokens": 132,
+    "total_chat_output_tokens": 2,
+    "total_embed_tokens": 16,
+    "cost_guardrails": 1.05e-05,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 1.28e-06,
+    "cost_generation": 0.0,
+    "cost_total": 1.1779999999999999e-05
+  },
+  {
+    "case_id": "CA2013-004",
+    "question": "Explain the restrictions imposed under Section 185 on loans to directors and interested entities.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": true,
+    "not_found": true,
+    "time_guardrails_input": 3.9726,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.4718,
+    "time_search": 0.6528,
+    "time_reranking": 1.4162,
+    "time_parent_child": 0.0006,
+    "time_generation": 3.1533,
+    "time_guardrails_output": 5.619,
+    "time_total": 15.4193,
+    "tokens_guardrails_input": {
+      "input_tokens": 138,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 19,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 18912,
+      "output_tokens": 802
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 1969,
+      "output_tokens": 2
+    },
+    "total_chat_input_tokens": 21019,
+    "total_chat_output_tokens": 806,
+    "total_embed_tokens": 19,
+    "cost_guardrails": 0.000159225,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 1.52e-06,
+    "cost_generation": 0.0016589999999999999,
+    "cost_total": 0.0018197449999999998
+  },
+  {
+    "case_id": "CA2013-005",
+    "question": "Explain the frequency, notice and quorum requirements for Board Meetings.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": true,
+    "not_found": true,
+    "time_guardrails_input": 4.0208,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.6715,
+    "time_search": 0.7223,
+    "time_reranking": 1.4569,
+    "time_parent_child": 0.0008,
+    "time_generation": 3.4846,
+    "time_guardrails_output": 14.0712,
+    "time_total": 24.5586,
+    "tokens_guardrails_input": {
+      "input_tokens": 126,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 13,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 4807,
+      "output_tokens": 926
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 2202,
+      "output_tokens": 2
+    },
+    "total_chat_input_tokens": 7135,
+    "total_chat_output_tokens": 930,
+    "total_embed_tokens": 13,
+    "cost_guardrails": 0.0001758,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 1.04e-06,
+    "cost_generation": 0.0006383249999999999,
+    "cost_total": 0.0008151649999999999
+  },
+  {
+    "case_id": "CA2013-006",
+    "question": "Explain appointment, rotation and removal of statutory auditors under Section 139.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": true,
+    "not_found": true,
+    "time_guardrails_input": 4.339,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.693,
+    "time_search": 2.0869,
+    "time_reranking": 1.7129,
+    "time_parent_child": 0.0006,
+    "time_generation": 4.5297,
+    "time_guardrails_output": 2.3936,
+    "time_total": 15.8774,
+    "tokens_guardrails_input": {
+      "input_tokens": 134,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 17,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 21956,
+      "output_tokens": 1084
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 2522,
+      "output_tokens": 2
+    },
+    "total_chat_input_tokens": 24612,
+    "total_chat_output_tokens": 1088,
+    "total_embed_tokens": 17,
+    "cost_guardrails": 0.0002004,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 1.3600000000000001e-06,
+    "cost_generation": 0.0019719,
+    "cost_total": 0.00217366
+  },
+  {
+    "case_id": "CA2013-007",
+    "question": "What constitutes a Related Party Transaction under Section 188? Explain approval requirements and consequences of non-compliance.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": true,
+    "not_found": true,
+    "time_guardrails_input": 2.7038,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.6963,
+    "time_search": 0.5015,
+    "time_reranking": 1.3312,
+    "time_parent_child": 0.0006,
+    "time_generation": 4.4599,
+    "time_guardrails_output": 2.1348,
+    "time_total": 11.974,
+    "tokens_guardrails_input": {
+      "input_tokens": 148,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 24,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 20422,
+      "output_tokens": 1020
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 2380,
+      "output_tokens": 2
+    },
+    "total_chat_input_tokens": 22950,
+    "total_chat_output_tokens": 1024,
+    "total_embed_tokens": 24,
+    "cost_guardrails": 0.0001908,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 1.9200000000000003e-06,
+    "cost_generation": 0.00183765,
+    "cost_total": 0.00203037
+  },
+  {
+    "case_id": "CA2013-008",
+    "question": "Explain CSR applicability, spending requirements and reporting obligations under Section 135.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": true,
+    "not_found": true,
+    "time_guardrails_input": 1.9511,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.502,
+    "time_search": 0.5668,
+    "time_reranking": 1.3334,
+    "time_parent_child": 0.0009,
+    "time_generation": 3.3509,
+    "time_guardrails_output": 2.0819,
+    "time_total": 9.9266,
+    "tokens_guardrails_input": {
+      "input_tokens": 134,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 17,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 21263,
+      "output_tokens": 961
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 2300,
+      "output_tokens": 2
+    },
+    "total_chat_input_tokens": 23697,
+    "total_chat_output_tokens": 965,
+    "total_embed_tokens": 17,
+    "cost_guardrails": 0.00018375,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 1.3600000000000001e-06,
+    "cost_generation": 0.001883025,
+    "cost_total": 0.002068135
+  },
+  {
+    "case_id": "CA2013-009",
+    "question": "Explain preparation, approval and filing of financial statements under Sections 129, 134 and 137.",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": true,
+    "not_found": true,
+    "time_guardrails_input": 11.6669,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.6755,
+    "time_search": 0.7028,
+    "time_reranking": 2.0021,
+    "time_parent_child": 0.0008,
+    "time_generation": 8.3588,
+    "time_guardrails_output": 1.6727,
+    "time_total": 25.3812,
+    "tokens_guardrails_input": {
+      "input_tokens": 154,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 27,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 19760,
+      "output_tokens": 825
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 2021,
+      "output_tokens": 2
+    },
+    "total_chat_input_tokens": 21935,
+    "total_chat_output_tokens": 829,
+    "total_embed_tokens": 27,
+    "cost_guardrails": 0.000164325,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 2.16e-06,
+    "cost_generation": 0.0017295000000000001,
+    "cost_total": 0.0018959850000000002
+  },
+  {
+    "case_id": "CA2013-010",
+    "question": "During an audit, you identify material financial misstatements and management refuses to correct them. What actions should you take as statutory auditor?",
+    "answer": "I could not find this in the documents.",
+    "is_blocked": false,
+    "not_found": true,
+    "time_guardrails_input": 1.9694,
+    "time_query_rewrite": 0.0,
+    "time_embedding": 0.7174,
+    "time_search": 0.5275,
+    "time_reranking": 1.3236,
+    "time_parent_child": 0.0006,
+    "time_generation": 1.2731,
+    "time_guardrails_output": 0.0,
+    "time_total": 5.9542,
+    "tokens_guardrails_input": {
+      "input_tokens": 154,
+      "output_tokens": 2
+    },
+    "tokens_query_rewrite": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "tokens_embedding": {
+      "input_tokens": 27,
+      "output_tokens": 0
+    },
+    "tokens_generation": {
+      "input_tokens": 8082,
+      "output_tokens": 9
+    },
+    "tokens_guardrails_output": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "total_chat_input_tokens": 8236,
+    "total_chat_output_tokens": 11,
+    "total_embed_tokens": 27,
+    "cost_guardrails": 1.2149999999999999e-05,
+    "cost_rewrite": 0.0,
+    "cost_embedding": 2.16e-06,
+    "cost_generation": 0.00060885,
+    "cost_total": 0.00062316
+  }
+]

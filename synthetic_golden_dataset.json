@@ -1,0 +1,62 @@
+[
+  {
+    "input": "Under the Central Goods and Services Tax (CGST) Act, 2017, what is the GST rate and SAC code for corporate legal consultancy services?",
+    "expected_output": "NOT_FOUND",
+    "context": [],
+    "source_file": null,
+    "additional_metadata": {
+      "question_type": "unanswerable",
+      "sources": [],
+      "unanswerable_reason": "GST / CGST Act, 2017 is not part of the project corpus (only Companies Act 2013, FEMA 1999, and Income-tax Act 2025 are included).",
+      "id": "SYN-001"
+    }
+  },
+  {
+    "input": "What is the current RBI Liberalised Remittance Scheme (LRS) annual USD limit per financial year for resident individuals?",
+    "expected_output": "NOT_FOUND",
+    "context": [],
+    "source_file": null,
+    "additional_metadata": {
+      "question_type": "unanswerable",
+      "sources": [],
+      "unanswerable_reason": "The FEMA Act, 1999 statute text does not state the RBI Master Direction annual USD limit for LRS.",
+      "id": "SYN-002"
+    }
+  },
+  {
+    "input": "Under the Insolvency and Bankruptcy Code, 2016, what is the maximum statutory timeline including extensions for completing a Corporate Insolvency Resolution Process (CIRP)?",
+    "expected_output": "NOT_FOUND",
+    "context": [],
+    "source_file": null,
+    "additional_metadata": {
+      "question_type": "unanswerable",
+      "sources": [],
+      "unanswerable_reason": "The Insolvency and Bankruptcy Code, 2016 is not present in the source documents.",
+      "id": "SYN-003"
+    }
+  },
+  {
+    "input": "What exact MCA filing fee and Maharashtra stamp duty apply when filing Form SPICe+ (INC-32) for a company with Rs. 10 lakh authorised capital?",
+    "expected_output": "NOT_FOUND",
+    "context": [],
+    "source_file": null,
+    "additional_metadata": {
+      "question_type": "unanswerable",
+      "sources": [],
+      "unanswerable_reason": "MCA fee schedules, rule-level filing fees, and state stamp duty rates are outside the Companies Act, 2013 PDF.",
+      "id": "SYN-004"
+    }
+  },
+  {
+    "input": "Under Regulation 23 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, what is the numerical materiality threshold for listed-company related party transactions?",
+    "expected_output": "NOT_FOUND",
+    "context": [],
+    "source_file": null,
+    "additional_metadata": {
+      "question_type": "unanswerable",
+      "sources": [],
+      "unanswerable_reason": "SEBI LODR Regulations, 2015 are not included in the project's source documents.",
+      "id": "SYN-005"
+    }
+  }
+]

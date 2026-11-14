@@ -1,0 +1,63 @@
+Explain the legal requirements and procedure for incorporating a Private Limited Company under Section 7.
+
+Explain the differences between the Memorandum of Association (MOA) and Articles of Association (AOA). What happens when a company's actions are beyond its MOA?
+
+Explain the different methods of issuing shares, including Rights Issue, Bonus Issue and Private Placement, and their compliance requirements.
+
+Explain the restrictions imposed under Section 185 on loans to directors and interested entities.
+
+Explain the frequency, notice and quorum requirements for conducting Board Meetings under Sections 173 and 174.
+
+Explain the appointment, rotation and removal of statutory auditors under Section 139.
+
+What constitutes a Related Party Transaction under Section 188? Explain the approval requirements and consequences of non-compliance.
+
+Explain the applicability criteria, spending requirements and reporting obligations for Corporate Social Responsibility under Section 135.
+
+Explain the statutory requirements for preparation, approval and filing of financial statements under Sections 129, 134 and 137.
+
+During an audit, you identify material financial misstatements, but management refuses to correct them. What actions should you take as a statutory auditor?
+
+FEMA, 1999
+
+Explain the objectives of FEMA, 1999. How does FEMA differ from the erstwhile FERA?
+
+Explain the definition of a person resident in India and a person resident outside India under FEMA.
+
+Differentiate between current account transactions and capital account transactions with practical examples.
+
+Explain Foreign Direct Investment (FDI), including the automatic route, government approval route and sectoral caps.
+
+Explain the reporting requirements for foreign investment in Indian companies, including FC-GPR and FC-TRS.
+
+What is External Commercial Borrowing (ECB)? Explain eligible borrowers, recognised lenders and compliance requirements.
+
+Explain Overseas Direct Investment (ODI) and Overseas Portfolio Investment (OPI). What are the compliance requirements for an Indian company investing in a foreign subsidiary?
+
+Explain the Liberalised Remittance Scheme (LRS), its limits, permitted transactions and restrictions.
+
+Explain FEMA requirements relating to export proceeds, import payments, realisation and repatriation of foreign exchange.
+
+An Indian company receives foreign investment but fails to complete the prescribed RBI reporting within the applicable timeline. What corrective actions and regulatory consequences arise?
+
+Income-tax Act, 2025
+
+Explain the structure of the Income-tax Act, 2025. What are the major differences between the Income-tax Act, 1961 and the new legislation?
+
+Explain the residential status classifications for individuals and companies. How does residential status determine the scope of taxable income in India?
+
+Explain the five heads of income under Indian income-tax law with practical examples.
+
+Explain the taxation of domestic companies, including applicable tax regimes, tax rates, deductions and conditions for concessional taxation.
+
+Explain the computation of profits and gains from business or profession. Differentiate between allowable and disallowable business expenses.
+
+Explain the taxation of short-term and long-term capital gains. How do holding periods, exemptions and applicable tax rates affect capital gains computation?
+
+Differentiate between TDS and TCS. Explain the responsibilities of deductors and collectors, applicable timelines and consequences of default.
+
+Explain advance tax provisions, instalment requirements, interest for default and the applicability of tax audits.
+
+An Indian company makes payments to a foreign consultant. Explain withholding tax requirements, Double Taxation Avoidance Agreements (DTAA), transfer pricing considerations and applicable compliance.
+
+During an income-tax assessment, the department identifies unexplained credits in the company's books and disallows certain expenses. How would you analyse the issue, determine tax exposure and respond to the assessment?

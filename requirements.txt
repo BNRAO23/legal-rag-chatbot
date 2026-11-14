@@ -1,0 +1,22 @@
+# Web Chat Interface
+streamlit>=1.40.0
+
+# Vector Database & Retrieval
+chromadb>=0.5.0
+rank-bm25>=0.2.2
+sentence-transformers>=3.0.0
+
+# LLM Providers & Embeddings
+google-genai>=0.1.0
+openai>=1.30.0
+ollama>=0.2.0
+
+# Observability, Tracing & Feedback
+langfuse>=2.0.0
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# Document Ingestion & Utilities
+pymupdf>=1.24.0
+tqdm>=4.66.0
