@@ -1,0 +1,1228 @@
+[
+  {
+    "source_file": "Companies Act 2013 as amended upto 01.04.2021_.pdf",
+    "output_file": "C:\\RAO\\FUTURE PROOF INDIA\\PROJECTS\\LEGAL CHATBOT\\RAG2026\\parsed_docs\\Companies Act 2013 as amended upto 01.04.2021_.md",
+    "total_pages": 351,
+    "total_chars": 1191301,
+    "total_words": 201801,
+    "elapsed_seconds": 51.21,
+    "flagged_pages": [
+      {
+        "page": 40,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "3 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3579
+      },
+      {
+        "page": 252,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 16x4 (empty=45%, merged=0)",
+        "char_count": 2160
+      },
+      {
+        "page": 253,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 3x3 (empty=33%, merged=0); 9x3 (empty=44%, merged=0)",
+        "char_count": 2618
+      },
+      {
+        "page": 254,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 3x3 (empty=33%, merged=0)",
+        "char_count": 2495
+      },
+      {
+        "page": 255,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 8x4 (empty=22%, merged=0); 2x3 (empty=17%, merged=0)",
+        "char_count": 2365
+      },
+      {
+        "page": 256,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 15x3 (empty=47%, merged=0); 3x3 (empty=33%, merged=0)",
+        "char_count": 1983
+      },
+      {
+        "page": 257,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 15x4 (empty=47%, merged=0); 3x3 (empty=33%, merged=0)",
+        "char_count": 2331
+      },
+      {
+        "page": 269,
+        "reasons": [
+          "GRID_TABLE"
+        ],
+        "details": "1 grid table(s) extracted (10x2)",
+        "char_count": 2909
+      },
+      {
+        "page": 270,
+        "reasons": [
+          "GRID_TABLE"
+        ],
+        "details": "1 grid table(s) extracted (6x2)",
+        "char_count": 2099
+      },
+      {
+        "page": 273,
+        "reasons": [
+          "GRID_TABLE"
+        ],
+        "details": "1 grid table(s) extracted (15x2)",
+        "char_count": 3334
+      },
+      {
+        "page": 275,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 3x3 (empty=11%, merged=0)",
+        "char_count": 2989
+      },
+      {
+        "page": 276,
+        "reasons": [
+          "GRID_TABLE"
+        ],
+        "details": "2 grid table(s) extracted (20x3; 4x2)",
+        "char_count": 2065
+      },
+      {
+        "page": 277,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 26x2 (empty=15%, merged=0)",
+        "char_count": 2132
+      },
+      {
+        "page": 278,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 32x3 (empty=5%, merged=0)",
+        "char_count": 1762
+      },
+      {
+        "page": 279,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 31x3 (empty=8%, merged=0)",
+        "char_count": 2055
+      },
+      {
+        "page": 280,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 31x2 (empty=10%, merged=0)",
+        "char_count": 1919
+      },
+      {
+        "page": 281,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 6x2 (empty=8%, merged=0)",
+        "char_count": 2893
+      },
+      {
+        "page": 282,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 3x2 (empty=0%, merged=0)",
+        "char_count": 3438
+      },
+      {
+        "page": 283,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 3x4 (empty=8%, merged=0)",
+        "char_count": 1467
+      },
+      {
+        "page": 293,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/2 grid table(s) complex: 18x5 (empty=51%, merged=0)",
+        "char_count": 1719
+      },
+      {
+        "page": 294,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 19x5 (empty=33%, merged=0)",
+        "char_count": 1695
+      },
+      {
+        "page": 297,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 4x4 (empty=19%, merged=1)",
+        "char_count": 2009
+      },
+      {
+        "page": 299,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 3x2 (empty=0%, merged=0)",
+        "char_count": 3508
+      },
+      {
+        "page": 300,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 4x5 (empty=40%, merged=0)",
+        "char_count": 2621
+      },
+      {
+        "page": 301,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 31x2 (empty=47%, merged=0)",
+        "char_count": 1666
+      },
+      {
+        "page": 302,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "12 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2786
+      },
+      {
+        "page": 303,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "16 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2236
+      },
+      {
+        "page": 304,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "6 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2188
+      },
+      {
+        "page": 305,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "25 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2317
+      },
+      {
+        "page": 306,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "18 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2185
+      },
+      {
+        "page": 307,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "18 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3098
+      },
+      {
+        "page": 308,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "16 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2587
+      },
+      {
+        "page": 309,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "10 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 1452
+      },
+      {
+        "page": 310,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 6x4 (empty=67%, merged=0)",
+        "char_count": 3117
+      },
+      {
+        "page": 311,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 12x7 (empty=74%, merged=0)",
+        "char_count": 3140
+      },
+      {
+        "page": 312,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 17x7 (empty=67%, merged=0)",
+        "char_count": 1833
+      },
+      {
+        "page": 313,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "14 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2045
+      },
+      {
+        "page": 314,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "12 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2868
+      },
+      {
+        "page": 315,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 4x9 (empty=19%, merged=13)",
+        "char_count": 622
+      },
+      {
+        "page": 317,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 3x2 (empty=0%, merged=0)",
+        "char_count": 3576
+      },
+      {
+        "page": 318,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 26x5 (empty=62%, merged=0)",
+        "char_count": 1300
+      },
+      {
+        "page": 319,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 2x3 (empty=0%, merged=0); 25x2 (empty=21%, merged=0)",
+        "char_count": 1489
+      },
+      {
+        "page": 320,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "13 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 1517
+      },
+      {
+        "page": 321,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 20x7 (empty=79%, merged=5)",
+        "char_count": 2032
+      },
+      {
+        "page": 323,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 23x13 (empty=78%, merged=23)",
+        "char_count": 2820
+      },
+      {
+        "page": 324,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 16x15 (empty=65%, merged=40)",
+        "char_count": 1749
+      },
+      {
+        "page": 327,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 9x9 (empty=60%, merged=8); 17x9 (empty=75%, merged=6)",
+        "char_count": 2555
+      },
+      {
+        "page": 328,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 8x9 (empty=58%, merged=7); 9x9 (empty=64%, merged=8)",
+        "char_count": 2084
+      },
+      {
+        "page": 330,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "3 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3293
+      },
+      {
+        "page": 331,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 31x5 (empty=64%, merged=0)",
+        "char_count": 1920
+      },
+      {
+        "page": 332,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 25x5 (empty=75%, merged=0)",
+        "char_count": 1716
+      },
+      {
+        "page": 333,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "2/2 grid table(s) complex: 7x7 (empty=61%, merged=5); 11x3 (empty=61%, merged=0)",
+        "char_count": 1890
+      },
+      {
+        "page": 334,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "4/4 grid table(s) complex: 6x3 (empty=56%, merged=0); 8x5 (empty=62%, merged=2); 7x3 (empty=57%, merged=0)",
+        "char_count": 1932
+      },
+      {
+        "page": 335,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 12x3 (empty=61%, merged=0)",
+        "char_count": 2135
+      },
+      {
+        "page": 337,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 4x9 (empty=25%, merged=13)",
+        "char_count": 830
+      },
+      {
+        "page": 338,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "3 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 430
+      },
+      {
+        "page": 343,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 6x4 (empty=4%, merged=0)",
+        "char_count": 3423
+      },
+      {
+        "page": 344,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "4 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3521
+      }
+    ]
+  },
+  {
+    "source_file": "FEMA ACT 1999.pdf",
+    "output_file": "C:\\RAO\\FUTURE PROOF INDIA\\PROJECTS\\LEGAL CHATBOT\\RAG2026\\parsed_docs\\FEMA ACT 1999.md",
+    "total_pages": 24,
+    "total_chars": 72620,
+    "total_words": 11978,
+    "elapsed_seconds": 0.89,
+    "flagged_pages": [
+      {
+        "page": 1,
+        "reasons": [
+          "LOW_TEXT"
+        ],
+        "details": "only 93 chars of body text",
+        "char_count": 93
+      },
+      {
+        "page": 2,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 7x8 (empty=0%, merged=0)",
+        "char_count": 678
+      }
+    ]
+  },
+  {
+    "source_file": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+    "output_file": "C:\\RAO\\FUTURE PROOF INDIA\\PROJECTS\\LEGAL CHATBOT\\RAG2026\\parsed_docs\\Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.md",
+    "total_pages": 674,
+    "total_chars": 1631856,
+    "total_words": 280088,
+    "elapsed_seconds": 64.74,
+    "flagged_pages": [
+      {
+        "page": 3,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "6 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4859
+      },
+      {
+        "page": 5,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA"
+        ],
+        "details": "1 embedded image(s) (118x46px) - may contain formula/diagram omitted from text",
+        "char_count": 6691
+      },
+      {
+        "page": 32,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA",
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "1 embedded image(s) (144x41px) - may contain formula/diagram omitted from text; 14 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2677
+      },
+      {
+        "page": 33,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "13 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5377
+      },
+      {
+        "page": 46,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "13 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3885
+      },
+      {
+        "page": 54,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "7 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4817
+      },
+      {
+        "page": 57,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA",
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "1 embedded image(s) (122x58px) - may contain formula/diagram omitted from text; 15 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3305
+      },
+      {
+        "page": 58,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "15 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3243
+      },
+      {
+        "page": 67,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "16 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5074
+      },
+      {
+        "page": 74,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "13 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5322
+      },
+      {
+        "page": 81,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "19 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4679
+      },
+      {
+        "page": 85,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "16 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4540
+      },
+      {
+        "page": 88,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "4 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2568
+      },
+      {
+        "page": 89,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA"
+        ],
+        "details": "2 embedded image(s) (82x49px, 90x62px) - may contain formula/diagram omitted from text",
+        "char_count": 1860
+      },
+      {
+        "page": 97,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 5x4 (empty=15%, merged=0)",
+        "char_count": 3071
+      },
+      {
+        "page": 100,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "16 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 6489
+      },
+      {
+        "page": 104,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA",
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "1 embedded image(s) (134x65px) - may contain formula/diagram omitted from text; 26 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3733
+      },
+      {
+        "page": 105,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA",
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "1 embedded image(s) (134x65px) - may contain formula/diagram omitted from text; 14 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3673
+      },
+      {
+        "page": 133,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA"
+        ],
+        "details": "1 embedded image(s) (146x59px) - may contain formula/diagram omitted from text",
+        "char_count": 5971
+      },
+      {
+        "page": 234,
+        "reasons": [
+          "GRID_TABLE"
+        ],
+        "details": "1 grid table(s) extracted (7x3)",
+        "char_count": 4146
+      },
+      {
+        "page": 235,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "17 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4293
+      },
+      {
+        "page": 243,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "16 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3610
+      },
+      {
+        "page": 244,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "9 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3618
+      },
+      {
+        "page": 247,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "10 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3519
+      },
+      {
+        "page": 250,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "9 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 6540
+      },
+      {
+        "page": 254,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "15 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4563
+      },
+      {
+        "page": 256,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "5 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2232
+      },
+      {
+        "page": 257,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "7 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3537
+      },
+      {
+        "page": 258,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "8 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3429
+      },
+      {
+        "page": 259,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "4 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 1881
+      },
+      {
+        "page": 262,
+        "reasons": [
+          "GRID_TABLE"
+        ],
+        "details": "1 grid table(s) extracted (6x3)",
+        "char_count": 671
+      },
+      {
+        "page": 266,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "4 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 629
+      },
+      {
+        "page": 275,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "6 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4183
+      },
+      {
+        "page": 278,
+        "reasons": [
+          "LOW_TEXT"
+        ],
+        "details": "only 47 chars of body text",
+        "char_count": 47
+      },
+      {
+        "page": 279,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA"
+        ],
+        "details": "4 embedded image(s) (176x69px, 178x74px, 146x59px, 151x72px) - may contain formula/diagram omitted from text",
+        "char_count": 4498
+      },
+      {
+        "page": 317,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "8 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4909
+      },
+      {
+        "page": 319,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "7 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3935
+      },
+      {
+        "page": 321,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "17 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2880
+      },
+      {
+        "page": 347,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "22 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3116
+      },
+      {
+        "page": 350,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "28 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3209
+      },
+      {
+        "page": 351,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "26 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4136
+      },
+      {
+        "page": 352,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "6 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2255
+      },
+      {
+        "page": 368,
+        "reasons": [
+          "EMBEDDED_IMAGE_OR_FORMULA"
+        ],
+        "details": "1 embedded image(s) (78x56px) - may contain formula/diagram omitted from text",
+        "char_count": 2023
+      },
+      {
+        "page": 396,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "24 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5848
+      },
+      {
+        "page": 402,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "22 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2020
+      },
+      {
+        "page": 417,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "30 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4154
+      },
+      {
+        "page": 418,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "7 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2826
+      },
+      {
+        "page": 420,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "18 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5238
+      },
+      {
+        "page": 460,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "13 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2692
+      },
+      {
+        "page": 461,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "20 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4014
+      },
+      {
+        "page": 462,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 11x3 (empty=24%, merged=1)",
+        "char_count": 3717
+      },
+      {
+        "page": 463,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 4x5 (empty=20%, merged=0)",
+        "char_count": 4379
+      },
+      {
+        "page": 464,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "37 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3611
+      },
+      {
+        "page": 465,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "17 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3736
+      },
+      {
+        "page": 466,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "17 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2698
+      },
+      {
+        "page": 467,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "6 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4532
+      },
+      {
+        "page": 468,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "15 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3432
+      },
+      {
+        "page": 469,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "8 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4086
+      },
+      {
+        "page": 471,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "13 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4019
+      },
+      {
+        "page": 481,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "18 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4427
+      },
+      {
+        "page": 490,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 8x3 (empty=17%, merged=0)",
+        "char_count": 1567
+      },
+      {
+        "page": 507,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "23 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4572
+      },
+      {
+        "page": 510,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 8x5 (empty=7%, merged=0)",
+        "char_count": 4201
+      },
+      {
+        "page": 522,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "7 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4888
+      },
+      {
+        "page": 605,
+        "reasons": [
+          "LOW_TEXT"
+        ],
+        "details": "only 98 chars of body text",
+        "char_count": 98
+      },
+      {
+        "page": 624,
+        "reasons": [
+          "COMPLEX_GRID_TABLE"
+        ],
+        "details": "1/1 grid table(s) complex: 6x4 (empty=25%, merged=0)",
+        "char_count": 6523
+      },
+      {
+        "page": 629,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "17 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2704
+      },
+      {
+        "page": 630,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "24 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4512
+      },
+      {
+        "page": 631,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "5 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3351
+      },
+      {
+        "page": 632,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "22 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3457
+      },
+      {
+        "page": 633,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "17 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3383
+      },
+      {
+        "page": 634,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "15 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3593
+      },
+      {
+        "page": 635,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "26 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4558
+      },
+      {
+        "page": 636,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "24 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3820
+      },
+      {
+        "page": 637,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "3 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5133
+      },
+      {
+        "page": 639,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "18 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3672
+      },
+      {
+        "page": 640,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "26 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3178
+      },
+      {
+        "page": 641,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "36 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4605
+      },
+      {
+        "page": 643,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "15 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 1927
+      },
+      {
+        "page": 644,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "12 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5374
+      },
+      {
+        "page": 647,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "22 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3695
+      },
+      {
+        "page": 648,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "10 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5452
+      },
+      {
+        "page": 650,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "21 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4060
+      },
+      {
+        "page": 651,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "22 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4607
+      },
+      {
+        "page": 652,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "22 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 4375
+      },
+      {
+        "page": 654,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "8 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2874
+      },
+      {
+        "page": 670,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "3 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 5399
+      },
+      {
+        "page": 671,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "24 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 3701
+      },
+      {
+        "page": 672,
+        "reasons": [
+          "BORDERLESS_TABLE_OR_MULTICOL"
+        ],
+        "details": "3 multi-column y-aligned rows without grid lines (borderless table/schedule)",
+        "char_count": 2851
+      }
+    ]
+  }
+]
