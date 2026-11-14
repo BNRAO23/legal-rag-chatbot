@@ -1,0 +1,26 @@
+# NVIDIA NeMo Guardrails Configuration for Indian Legal RAG Assistant
+
+models:
+  - type: main
+    engine: nim
+    model: meta/llama-3.1-8b-instruct
+    parameters:
+      temperature: 0.0
+
+rails:
+  input:
+    flows:
+      - check jailbreak
+      - check input topic
+  output:
+    flows:
+      - check output safety
+      - check output facts
+
+instructions:
+  - type: general
+    content: |
+      You are a strict, authoritative legal RAG assistant specializing in Indian statutory law:
+      Companies Act, 2013; Foreign Exchange Management Act (FEMA), 1999; and Income-tax Act, 2025.
+      You only answer queries grounded strictly in provided statutory chunks, and cite section and page references.
+
